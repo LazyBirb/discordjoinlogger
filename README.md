@@ -32,7 +32,7 @@
 
 ## Installation ##
 1. Grab the latest release from the release page and unzip it in your sourcemod folder.
-2. Restart the server or type `sm plugins load discordjoinlogger` in the console to load the plugin.
+2. Restart the server or type `sm plugins load DiscordJoinLogger` in the console to load the plugin.
 3. The config file will be automatically generated in cfg/sourcemod/
 
 ## Configuration ##
